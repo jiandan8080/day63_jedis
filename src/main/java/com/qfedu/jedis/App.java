@@ -42,6 +42,8 @@ public class App {
         //System.out.println("zaiyishunjian");
         System.out.println("wdawdaw");
 
+
+        System.out.println("www");
         JedisUtils.closeJedis(jedis);
 
     }
