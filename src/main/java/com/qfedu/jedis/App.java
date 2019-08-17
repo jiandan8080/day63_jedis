@@ -39,7 +39,8 @@ public class App {
         Jedis jedis = JedisUtils.getJedis();
         System.out.println(jedis.get("age"));
 
-        System.out.println("zaiyishunjian");
+        //System.out.println("zaiyishunjian");
+        System.out.println("wdawdaw");
 
         JedisUtils.closeJedis(jedis);
 
